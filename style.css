@@ -1,0 +1,79 @@
+/*div {
+ 	border:solid;
+}
+*/
+
+body {
+	background-color: #ccd1d9;
+}
+
+.main {
+	width: 900px;
+	margin: 120px auto 0 auto;	
+}
+
+.navbar {
+	margin-left: -6px;
+	navbar-bottom: -50px;
+}
+.container {
+	background-color: white;
+	top:140px;
+	width: 900px;
+	margin: 2px auto;
+	padding: 15px;
+}
+
+
+
+
+.sprite {
+  background-image: url('images/menu-sprite.jpg');
+  background-size: 415px 205px;
+  display: inline-block;
+  height: 64px;
+}
+
+.home {
+  width: 124px;
+  background-position: 0 65px;
+
+}
+
+.home:hover {
+  background-position: 0 135px;
+}
+
+.home:active{
+  background-position: 0 65px;
+
+}
+
+
+.about {
+	background-position: 293px 0;
+	width: 125px;
+}
+.about:hover {
+	background-position: 293px 135px;
+	width: 125px;
+}
+
+
+.contact {
+	background-position: 168px 0;
+	width: 170px;
+}
+
+.contact:hover {
+	background-position: 168px 135px;
+}
+
+.active {
+	background-position: ;
+}
+
+
+/*118
+155
+132*/
